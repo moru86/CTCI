@@ -1,5 +1,5 @@
 [package]
-name = "CTCI"
+name = "ctci_sandbox"
 version = "0.1.0"
 authors = ["Morten Ruwald <smoggie70@hotmail.com>"]
 edition = "2018"
